@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "引用指针", "引用指针\引用指针.vcxproj", "{9FFD1ED1-31F2-493A-9C75-06E2C21ED5FF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "泛型思想初步", "泛型思想初步\泛型思想初步.vcxproj", "{A50F0B8A-C0D7-42CB-BCCA-CA534D3A64EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FFD1ED1-31F2-493A-9C75-06E2C21ED5FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9FFD1ED1-31F2-493A-9C75-06E2C21ED5FF}.Debug|Win32.Build.0 = Debug|Win32
+		{9FFD1ED1-31F2-493A-9C75-06E2C21ED5FF}.Release|Win32.ActiveCfg = Release|Win32
+		{9FFD1ED1-31F2-493A-9C75-06E2C21ED5FF}.Release|Win32.Build.0 = Release|Win32
+		{A50F0B8A-C0D7-42CB-BCCA-CA534D3A64EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A50F0B8A-C0D7-42CB-BCCA-CA534D3A64EF}.Debug|Win32.Build.0 = Debug|Win32
+		{A50F0B8A-C0D7-42CB-BCCA-CA534D3A64EF}.Release|Win32.ActiveCfg = Release|Win32
+		{A50F0B8A-C0D7-42CB-BCCA-CA534D3A64EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
