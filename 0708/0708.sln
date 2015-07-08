@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct 与 class 的区别", "struct 与 class 的区别\struct 与 class 的区别.vcxproj", "{73393F2F-7011-4274-8180-672B99D2C405}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Date", "Date\Date.vcxproj", "{1CB15ECF-75CE-41EB-A022-AE2372884330}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "explicit", "explicit\explicit.vcxproj", "{A3814269-7AD7-4731-B3FB-33127BF21AFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Deep Constructor", "Deep Constructor\Deep Constructor.vcxproj", "{57DEF6BA-B006-49FD-A7E7-B60E4578E84C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73393F2F-7011-4274-8180-672B99D2C405}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73393F2F-7011-4274-8180-672B99D2C405}.Debug|Win32.Build.0 = Debug|Win32
+		{73393F2F-7011-4274-8180-672B99D2C405}.Release|Win32.ActiveCfg = Release|Win32
+		{73393F2F-7011-4274-8180-672B99D2C405}.Release|Win32.Build.0 = Release|Win32
+		{1CB15ECF-75CE-41EB-A022-AE2372884330}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1CB15ECF-75CE-41EB-A022-AE2372884330}.Debug|Win32.Build.0 = Debug|Win32
+		{1CB15ECF-75CE-41EB-A022-AE2372884330}.Release|Win32.ActiveCfg = Release|Win32
+		{1CB15ECF-75CE-41EB-A022-AE2372884330}.Release|Win32.Build.0 = Release|Win32
+		{A3814269-7AD7-4731-B3FB-33127BF21AFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3814269-7AD7-4731-B3FB-33127BF21AFD}.Debug|Win32.Build.0 = Debug|Win32
+		{A3814269-7AD7-4731-B3FB-33127BF21AFD}.Release|Win32.ActiveCfg = Release|Win32
+		{A3814269-7AD7-4731-B3FB-33127BF21AFD}.Release|Win32.Build.0 = Release|Win32
+		{57DEF6BA-B006-49FD-A7E7-B60E4578E84C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{57DEF6BA-B006-49FD-A7E7-B60E4578E84C}.Debug|Win32.Build.0 = Debug|Win32
+		{57DEF6BA-B006-49FD-A7E7-B60E4578E84C}.Release|Win32.ActiveCfg = Release|Win32
+		{57DEF6BA-B006-49FD-A7E7-B60E4578E84C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
