@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Member 和 Class", "Member 和 Class\Member 和 Class.vcxproj", "{AA2B0075-2D22-493E-9206-30198B9A3832}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct", "struct\struct.vcxproj", "{FFFF062C-22EF-4C63-AE33-5BF761DEB83F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "权限控制", "权限控制\权限控制.vcxproj", "{853D13A7-7AE8-46B4-8C3D-68BD314591C6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct 偏移", "struct 偏移\struct 偏移.vcxproj", "{D657B1C7-2BF3-4919-9401-1489C3B7675A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32Project1", "Win32Project1\Win32Project1.vcxproj", "{90E8BFC6-49D5-49F0-BDD0-49B53F0F5B06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "define 的特殊用法", "define 的特殊用法\define 的特殊用法.vcxproj", "{2678B637-6E32-4B14-847D-90AE43FE7FB5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实现属性构造器", "实现属性构造器\实现属性构造器.vcxproj", "{41A4C6FF-242A-4E6E-8E96-0C794D6F071C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2B0075-2D22-493E-9206-30198B9A3832}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA2B0075-2D22-493E-9206-30198B9A3832}.Debug|Win32.Build.0 = Debug|Win32
+		{AA2B0075-2D22-493E-9206-30198B9A3832}.Release|Win32.ActiveCfg = Release|Win32
+		{AA2B0075-2D22-493E-9206-30198B9A3832}.Release|Win32.Build.0 = Release|Win32
+		{FFFF062C-22EF-4C63-AE33-5BF761DEB83F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFFF062C-22EF-4C63-AE33-5BF761DEB83F}.Debug|Win32.Build.0 = Debug|Win32
+		{FFFF062C-22EF-4C63-AE33-5BF761DEB83F}.Release|Win32.ActiveCfg = Release|Win32
+		{FFFF062C-22EF-4C63-AE33-5BF761DEB83F}.Release|Win32.Build.0 = Release|Win32
+		{853D13A7-7AE8-46B4-8C3D-68BD314591C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{853D13A7-7AE8-46B4-8C3D-68BD314591C6}.Debug|Win32.Build.0 = Debug|Win32
+		{853D13A7-7AE8-46B4-8C3D-68BD314591C6}.Release|Win32.ActiveCfg = Release|Win32
+		{853D13A7-7AE8-46B4-8C3D-68BD314591C6}.Release|Win32.Build.0 = Release|Win32
+		{D657B1C7-2BF3-4919-9401-1489C3B7675A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D657B1C7-2BF3-4919-9401-1489C3B7675A}.Debug|Win32.Build.0 = Debug|Win32
+		{D657B1C7-2BF3-4919-9401-1489C3B7675A}.Release|Win32.ActiveCfg = Release|Win32
+		{D657B1C7-2BF3-4919-9401-1489C3B7675A}.Release|Win32.Build.0 = Release|Win32
+		{90E8BFC6-49D5-49F0-BDD0-49B53F0F5B06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90E8BFC6-49D5-49F0-BDD0-49B53F0F5B06}.Debug|Win32.Build.0 = Debug|Win32
+		{90E8BFC6-49D5-49F0-BDD0-49B53F0F5B06}.Release|Win32.ActiveCfg = Release|Win32
+		{90E8BFC6-49D5-49F0-BDD0-49B53F0F5B06}.Release|Win32.Build.0 = Release|Win32
+		{2678B637-6E32-4B14-847D-90AE43FE7FB5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2678B637-6E32-4B14-847D-90AE43FE7FB5}.Debug|Win32.Build.0 = Debug|Win32
+		{2678B637-6E32-4B14-847D-90AE43FE7FB5}.Release|Win32.ActiveCfg = Release|Win32
+		{2678B637-6E32-4B14-847D-90AE43FE7FB5}.Release|Win32.Build.0 = Release|Win32
+		{41A4C6FF-242A-4E6E-8E96-0C794D6F071C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41A4C6FF-242A-4E6E-8E96-0C794D6F071C}.Debug|Win32.Build.0 = Debug|Win32
+		{41A4C6FF-242A-4E6E-8E96-0C794D6F071C}.Release|Win32.ActiveCfg = Release|Win32
+		{41A4C6FF-242A-4E6E-8E96-0C794D6F071C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
