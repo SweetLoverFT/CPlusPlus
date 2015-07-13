@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "继承与对象的生命周期", "继承与对象的生命周期\继承与对象的生命周期.vcxproj", "{61BC33E9-E3E3-4A74-97FA-696DF5EF7101}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct 模拟多态", "struct 模拟多态\struct 模拟多态.vcxproj", "{0A0A0C71-6471-4797-A2A3-1013A48D8124}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorphism", "polymorphism\polymorphism.vcxproj", "{C17DFA29-2919-4557-89D0-C5BE2B2030C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61BC33E9-E3E3-4A74-97FA-696DF5EF7101}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61BC33E9-E3E3-4A74-97FA-696DF5EF7101}.Debug|Win32.Build.0 = Debug|Win32
+		{61BC33E9-E3E3-4A74-97FA-696DF5EF7101}.Release|Win32.ActiveCfg = Release|Win32
+		{61BC33E9-E3E3-4A74-97FA-696DF5EF7101}.Release|Win32.Build.0 = Release|Win32
+		{0A0A0C71-6471-4797-A2A3-1013A48D8124}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A0A0C71-6471-4797-A2A3-1013A48D8124}.Debug|Win32.Build.0 = Debug|Win32
+		{0A0A0C71-6471-4797-A2A3-1013A48D8124}.Release|Win32.ActiveCfg = Release|Win32
+		{0A0A0C71-6471-4797-A2A3-1013A48D8124}.Release|Win32.Build.0 = Release|Win32
+		{C17DFA29-2919-4557-89D0-C5BE2B2030C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C17DFA29-2919-4557-89D0-C5BE2B2030C7}.Debug|Win32.Build.0 = Debug|Win32
+		{C17DFA29-2919-4557-89D0-C5BE2B2030C7}.Release|Win32.ActiveCfg = Release|Win32
+		{C17DFA29-2919-4557-89D0-C5BE2B2030C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
