@@ -1,0 +1,11 @@
+﻿生成启动时间为 2015/7/17 21:40:52。
+     1>项目“C:\Users\SweetLover\Desktop\CPlusPlus\trunk\0716\static_cast\static_cast.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\sweetlover\desktop\cplusplus\trunk\0716\static_cast\main.cpp(55): error C2338: Cannot create queue!
+     1>已完成生成项目“C:\Users\SweetLover\Desktop\CPlusPlus\trunk\0716\static_cast\static_cast.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.71
