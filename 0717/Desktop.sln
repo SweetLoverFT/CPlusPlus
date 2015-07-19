@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "人人都有极客精神", "人人都有极客精神\人人都有极客精神.vcxproj", "{D1932203-D3C4-433B-A513-978344FD928F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自建物流的无人机试验", "自建物流的无人机试验\自建物流的无人机试验.vcxproj", "{37E86243-CEEE-4639-8AB5-32F76E3B6ABF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "人人都有极客精神（优化）", "人人都有极客精神（优化）\人人都有极客精神（优化）.vcxproj", "{A5BA0383-EBBA-4002-B4A4-8911B84F8770}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "腾讯手机地图", "腾讯手机地图\腾讯手机地图.vcxproj", "{492F2E8C-3CC0-4DB0-9894-0382D71734DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "爱奇艺的自制节目", "爱奇艺的自制节目\爱奇艺的自制节目.vcxproj", "{4CBDA213-DD46-4453-9899-B4A1417035AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1932203-D3C4-433B-A513-978344FD928F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1932203-D3C4-433B-A513-978344FD928F}.Debug|Win32.Build.0 = Debug|Win32
+		{D1932203-D3C4-433B-A513-978344FD928F}.Release|Win32.ActiveCfg = Release|Win32
+		{D1932203-D3C4-433B-A513-978344FD928F}.Release|Win32.Build.0 = Release|Win32
+		{37E86243-CEEE-4639-8AB5-32F76E3B6ABF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37E86243-CEEE-4639-8AB5-32F76E3B6ABF}.Debug|Win32.Build.0 = Debug|Win32
+		{37E86243-CEEE-4639-8AB5-32F76E3B6ABF}.Release|Win32.ActiveCfg = Release|Win32
+		{37E86243-CEEE-4639-8AB5-32F76E3B6ABF}.Release|Win32.Build.0 = Release|Win32
+		{A5BA0383-EBBA-4002-B4A4-8911B84F8770}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5BA0383-EBBA-4002-B4A4-8911B84F8770}.Debug|Win32.Build.0 = Debug|Win32
+		{A5BA0383-EBBA-4002-B4A4-8911B84F8770}.Release|Win32.ActiveCfg = Release|Win32
+		{A5BA0383-EBBA-4002-B4A4-8911B84F8770}.Release|Win32.Build.0 = Release|Win32
+		{492F2E8C-3CC0-4DB0-9894-0382D71734DE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{492F2E8C-3CC0-4DB0-9894-0382D71734DE}.Debug|Win32.Build.0 = Debug|Win32
+		{492F2E8C-3CC0-4DB0-9894-0382D71734DE}.Release|Win32.ActiveCfg = Release|Win32
+		{492F2E8C-3CC0-4DB0-9894-0382D71734DE}.Release|Win32.Build.0 = Release|Win32
+		{4CBDA213-DD46-4453-9899-B4A1417035AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4CBDA213-DD46-4453-9899-B4A1417035AE}.Debug|Win32.Build.0 = Debug|Win32
+		{4CBDA213-DD46-4453-9899-B4A1417035AE}.Release|Win32.ActiveCfg = Release|Win32
+		{4CBDA213-DD46-4453-9899-B4A1417035AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
